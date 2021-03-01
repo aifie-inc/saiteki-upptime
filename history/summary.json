@@ -1,8 +1,8 @@
 [
   {
     "name": "saiteki.app",
-    "url": "https://saiteki.app",
-    "icon": "https://favicons.githubusercontent.com/saiteki.app",
+    "url": "https://lp.saiteki.app",
+    "icon": "https://favicons.githubusercontent.com/lp.saiteki.app",
     "slug": "saiteki-app",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6844,
-    "timeDay": 6844,
-    "timeWeek": 6844,
-    "timeMonth": 6844,
-    "timeYear": 6844,
+    "time": 4301,
+    "timeDay": 1758,
+    "timeWeek": 4301,
+    "timeMonth": 4301,
+    "timeYear": 4301,
     "dailyMinutesDown": {}
   }
 ]
