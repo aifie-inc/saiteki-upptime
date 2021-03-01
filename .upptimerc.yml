@@ -3,7 +3,7 @@ repo: saiteki-upptime
 
 sites:
   - name: saiteki.app
-    url: https://saiteki.app
+    url: https://lp.saiteki.app
 
 status-website:
   baseUrl: /saiteki-upptime
