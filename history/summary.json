@@ -4,17 +4,19 @@
     "url": "https://lp.saiteki.app",
     "icon": "https://favicons.githubusercontent.com/lp.saiteki.app",
     "slug": "saiteki-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1420,
-    "timeDay": 1182,
-    "timeWeek": 1116,
-    "timeMonth": 996,
-    "timeYear": 1420,
-    "dailyMinutesDown": {}
+    "time": 1442,
+    "timeDay": 3324,
+    "timeWeek": 1660,
+    "timeMonth": 1136,
+    "timeYear": 1442,
+    "dailyMinutesDown": {
+      "2021-08-19": 0
+    }
   }
 ]
