@@ -2,8 +2,8 @@ owner: aifie-inc
 repo: saiteki-upptime
 
 sites:
-  - name: saiteki.app
-    url: https://lp.saiteki.app
+  - name: saiteki.site
+    url: https://lp.saiteki.site
 
 status-website:
   baseUrl: /saiteki-upptime
