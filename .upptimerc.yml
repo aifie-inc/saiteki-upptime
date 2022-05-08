@@ -2,6 +2,8 @@ owner: aifie-inc
 repo: saiteki-upptime
 
 sites:
+  - name: smartlp.site
+    url: https://lp.smartlp.site
   - name: saiteki.site
     url: https://lp.saiteki.site
 
