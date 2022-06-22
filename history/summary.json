@@ -4,19 +4,19 @@
     "url": "https://lp.smartlp.site",
     "icon": "https://favicons.githubusercontent.com/lp.smartlp.site",
     "slug": "smartlp-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2898,
-    "timeDay": 4037,
-    "timeWeek": 3367,
-    "timeMonth": 3055,
-    "timeYear": 2898,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 2909,
+    "timeDay": 3846,
+    "timeWeek": 3378,
+    "timeMonth": 3067,
+    "timeYear": 2909,
     "dailyMinutesDown": {
-      "2022-06-22": 0
+      "2022-06-22": 20
     }
   },
   {
