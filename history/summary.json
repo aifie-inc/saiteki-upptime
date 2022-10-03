@@ -2,7 +2,7 @@
   {
     "name": "smartlp.site",
     "url": "https://lp.smartlp.site",
-    "icon": "https://favicons.githubusercontent.com/lp.smartlp.site",
+    "icon": "https://icons.duckduckgo.com/ip3/lp.smartlp.site.ico",
     "slug": "smartlp-site",
     "status": "up",
     "uptime": "99.99%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2923,
-    "timeDay": 3361,
-    "timeWeek": 3126,
-    "timeMonth": 2876,
-    "timeYear": 2923,
+    "time": 2925,
+    "timeDay": 3222,
+    "timeWeek": 3147,
+    "timeMonth": 2913,
+    "timeYear": 2925,
     "dailyMinutesDown": {
       "2022-06-22": 20
     }
@@ -22,7 +22,7 @@
   {
     "name": "saiteki.site",
     "url": "https://lp.saiteki.site",
-    "icon": "https://favicons.githubusercontent.com/lp.saiteki.site",
+    "icon": "https://icons.duckduckgo.com/ip3/lp.saiteki.site.ico",
     "slug": "saiteki-site",
     "status": "up",
     "uptime": "99.97%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1714,
-    "timeDay": 2935,
-    "timeWeek": 2574,
-    "timeMonth": 2369,
-    "timeYear": 1761,
+    "time": 1717,
+    "timeDay": 3128,
+    "timeWeek": 2727,
+    "timeMonth": 2420,
+    "timeYear": 1766,
     "dailyMinutesDown": {
       "2022-07-28": 34,
       "2021-11-01": 133
