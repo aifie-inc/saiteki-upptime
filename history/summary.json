@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2855,
-    "timeDay": 3410,
-    "timeWeek": 3102,
-    "timeMonth": 2607,
-    "timeYear": 2855,
+    "time": 2852,
+    "timeDay": 2139,
+    "timeWeek": 2934,
+    "timeMonth": 2583,
+    "timeYear": 2852,
     "dailyMinutesDown": {
       "2022-06-22": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lp.saiteki.site.ico",
     "slug": "saiteki-site",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1764,
-    "timeDay": 2247,
-    "timeWeek": 2228,
-    "timeMonth": 2034,
-    "timeYear": 1927,
+    "time": 1766,
+    "timeDay": 2538,
+    "timeWeek": 2290,
+    "timeMonth": 2047,
+    "timeYear": 1930,
     "dailyMinutesDown": {
       "2022-07-28": 34
     }
