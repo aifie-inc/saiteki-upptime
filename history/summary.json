@@ -24,7 +24,7 @@
     "url": "https://lp.saiteki.site",
     "icon": "https://icons.duckduckgo.com/ip3/lp.saiteki.site.ico",
     "slug": "saiteki-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 2411,
     "timeYear": 1978,
     "dailyMinutesDown": {
+      "2022-12-30": 0,
       "2022-07-28": 34
     }
   }
