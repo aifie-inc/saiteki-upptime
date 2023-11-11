@@ -6,9 +6,9 @@
     "slug": "smartlp-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2648,
     "timeDay": 4292,
@@ -16,7 +16,6 @@
     "timeMonth": 3246,
     "timeYear": 2562,
     "dailyMinutesDown": {
-      "2023-11-11": 11,
       "2023-03-16": 32
     }
   },
@@ -25,18 +24,19 @@
     "url": "https://lp.saiteki.site",
     "icon": "https://icons.duckduckgo.com/ip3/lp.saiteki.site.ico",
     "slug": "saiteki-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2164,
-    "timeDay": 2939,
-    "timeWeek": 2445,
-    "timeMonth": 2854,
-    "timeYear": 2146,
+    "time": 2178,
+    "timeDay": 5763,
+    "timeWeek": 3213,
+    "timeMonth": 3033,
+    "timeYear": 2163,
     "dailyMinutesDown": {
+      "2023-11-11": 0,
       "2023-03-16": 32,
       "2022-12-31": 17
     }
