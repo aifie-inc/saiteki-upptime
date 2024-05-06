@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lp.smartlp.site.ico",
     "slug": "smartlp-site",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2191,
-    "timeDay": 228,
-    "timeWeek": 231,
-    "timeMonth": 267,
-    "timeYear": 2198,
+    "time": 2187,
+    "timeDay": 333,
+    "timeWeek": 239,
+    "timeMonth": 272,
+    "timeYear": 2192,
     "dailyMinutesDown": {}
   }
 ]
