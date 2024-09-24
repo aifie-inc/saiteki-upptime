@@ -4,17 +4,19 @@
     "url": "https://lp.smartlp.site",
     "icon": "https://icons.duckduckgo.com/ip3/lp.smartlp.site.ico",
     "slug": "smartlp-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1628,
+    "time": 1625,
     "timeDay": 498,
     "timeWeek": 197,
     "timeMonth": 194,
     "timeYear": 1276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   }
 ]
